@@ -1,0 +1,134 @@
+/* unordered list */
+/* ul{
+    list-style-type:square;
+} */
+
+/* ordered list */
+/* ol{
+    list-style-type: upper-alpha;
+} */
+/* images for bullets */
+/* ul{
+    list-style-image: url("./icons8-phone-100.png");
+}
+li {
+    margin: 10px 0px 0px 0px;
+} */
+/* list style position */
+/* .illuminations{
+    list-style-position: inside;
+}
+.seasons{
+    list-style-position: outside;
+} */
+/* list shorthand */
+/* ul{
+    list-style : inside square;
+     
+} */
+/* TABLE PROPERTIES */
+/* table{
+    width: 600px;
+    
+    padding: 10px;
+    text-transform: uppercase; 
+    letter-spacing: 3px;
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
+} */
+/* table,td,th{
+    border: 1px solid rgb(248, 20, 58);
+    border-collapse: collapse;
+    text-align: left;
+} */
+/* table{
+    background-color: brown;
+
+}
+tr:hover{
+    background-color: wheat;
+    cursor: pointer;
+}
+td{
+    padding: 20px;
+}
+th{
+    font-weight: bolder;
+    color: white;
+    background-color: black;
+}
+.even{
+    background-color: rgb(206, 245, 120);
+    color: white;
+} */
+/* TABLE EMPTY CELLS */
+/* td {
+    border: 1px solid #0088dd;
+    padding: 15px;
+}
+    table  {
+    empty-cells: show;
+}
+     */
+     /* GAPS BETWEEN CELLS */
+     /* td {
+        background-color: #0088dd;
+        padding: 15px;
+        border: 2px solid #000000;
+    }
+        table{
+        border-collapse: separate; 
+        } */
+
+        /* styling forms */
+        /* input{
+            font-size: 20px;
+            color: rgb(255, 255, 255);
+            background-color: black;
+        } */
+        /* input{
+            border: 5px solid red;
+            border-radius: 10px;
+        } */
+        /* input:hover{
+            background-color: lightblue;
+        }
+        input:focus{
+            border: 5px solid red;
+        } */
+
+        /* BACKGROUND IMAGE */
+        /* #email{
+            background-image: url("./icons8-facebook-100.png");
+            background-repeat: no-repeat;
+             background-size: contain;
+            padding-left: 20px;
+        }
+        #github{
+            background-image: url("./icons8-linkedin-100.png");
+            background-repeat: no-repeat;
+             background-size: contain;
+            padding-left: 20px;
+            margin-top: 10px;
+        } */
+
+        /* FIELDSET AND LEGEND */
+        /* fieldset{
+            width: 400px;
+            border: 2px solid black;
+            border-radius: 10px;
+            text-align: center;
+            padding: 20px;
+        }
+        legend{
+            border: 1px solid black;
+            text-transform: uppercase;
+            border-radius: 10px;
+            padding: 5px;
+            background-color: gray;
+            color: red;
+        } */
+        /* CURSOR STYLES */
+        #submit-btn{
+            cursor:help;
+        }
